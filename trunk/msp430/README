@@ -1,0 +1,14 @@
+These are TinyOS components. Just put them into the appropriate directories
+in TinyOS. This will create a hijack target platform.
+
+I assume you have a tinyos environment installed. For more information see:
+http://docs.tinyos.net/index.php/Getting_started#Installing_TinyOS_2.1.1
+
+Once the TinyOS tools are installed, get the code ready:
+
+svn export htt:p//tinyos-main.googlecode.com/svn/trunk/ tinyos-main-read-only
+cd tinyos-main-read-only
+svn export http://hijack-main.googlecode.com/svn/trunk/msp430
+. setup.sh
+cd apps/HiJackMan
+make hijack install miniprog bsl,/dev/ttyUSB0
