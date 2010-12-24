@@ -1,5 +1,3 @@
-// $Id$
-
 /*
  * "Copyright (c) 2007-2008 The Regents of the University of
  * California.  All rights reserved.

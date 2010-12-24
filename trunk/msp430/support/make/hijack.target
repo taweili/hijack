@@ -1,6 +1,3 @@
-#-*-Makefile-*-
-#$Id$
-
 PLATFORM ?= hijack
 
 # Disable MSP430 hardware multiply because it makes MSPGCC die
