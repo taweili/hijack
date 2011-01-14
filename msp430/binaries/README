@@ -1,0 +1,10 @@
+This folder contains pre-compiled binaries that can be used with the HiJack
+boards. Use the msp-bsl application to flash it onto the board using the
+HiJack programmer. The following line uses the TinyOS BSL:
+
+tos-bsl --swap-reset-test --invert-reset --invert-test -c /dev/ttyUSB0 -r -e -I -p hijack_a6.ihex
+
+hijack_a6.ihex: This application communicates at about 100 bytes/s. The
+application continuously samples ADC 6 (pin a6) at an 8 bit resolution. The
+application sends the values directly to the phone. Received bytes change
+the sampling rate of the ADC from about 1 Hz to a maximum of 100 Hz.
