@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="doxygen-cocoa-touch-tags.xml$http://developer.apple.com/iphone/library/documentation/Cocoa/Reference/Foundation/Classes/NSObject_Class/Reference/Reference.html" title="NSObject" alt="" coords="24,85,109,115"/>
+<area shape="rect" id="node15" href="$interface_c_p_color_space.html" title="Wrapper around CGColorSpaceRef." alt="" coords="80,181,195,211"/>
+<area shape="rect" id="node4" href="doxygen-cocoa-touch-tags.xml$http://developer.apple.com/iPhone/library/documentation/Cocoa/Reference/Foundation/Protocols/NSObject_Protocol/Reference/NSObject.html" title="\&lt;NSObject&#45;p\&gt;" alt="" coords="5,5,128,35"/>
+<area shape="rect" id="node6" href="doxygen-cocoa-touch-tags.xml$http://developer.apple.com/iphone/library/documentation/Cocoa/Reference/Foundation/Protocols/NSCopying_Protocol/Reference/Reference.html" title="\&lt;NSCopying&#45;p\&gt;" alt="" coords="219,181,347,211"/>
+<area shape="rect" id="node8" href="doxygen-cocoa-touch-tags.xml$http://developer.apple.com/iphone/library/documentation/Cocoa/Reference/Foundation/Protocols/NSCoding_Protocol/Reference/Reference.html" title="\&lt;NSCoding&#45;p\&gt;" alt="" coords="371,181,491,211"/>
+<area shape="rect" id="node10" href="$struct___c_p_gradient_element.html" title="A structure representing one node in a linked list of RGBA colors." alt="" coords="515,181,677,211"/>
+<area shape="rect" id="node13" href="$struct___c_p_r_g_b_a_color.html" title="RGBA color for gradients." alt="" coords="536,85,656,115"/>
+<area shape="rect" id="node18" href="doxygen-cocoa-touch-tags.xml$http://developer.apple.com/iphone/library/documentation/GraphicsImaging/Reference/CGFunction/Reference/reference.html.html#//apple_ref/doc/c_ref/CGFunctionRef" title="CGFunctionRef" alt="" coords="816,181,939,211"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$interface_c_p_fill.html" title="Draws area fills." alt="" coords="132,277,191,307"/>
+<area shape="rect" id="node4" href="doxygen-cocoa-touch-tags.xml$http://developer.apple.com/iphone/library/documentation/Cocoa/Reference/Foundation/Classes/NSObject_Class/Reference/Reference.html" title="NSObject" alt="" coords="440,85,525,115"/>
+<area shape="rect" id="node14" href="$interface_c_p_gradient.html" title="Draws color gradient fills." alt="" coords="299,277,397,307"/>
+<area shape="rect" id="node24" href="$interface_c_p_color_space.html" title="Wrapper around CGColorSpaceRef." alt="" coords="520,181,635,211"/>
+<area shape="rect" id="node6" href="doxygen-cocoa-touch-tags.xml$http://developer.apple.com/iPhone/library/documentation/Cocoa/Reference/Foundation/Protocols/NSObject_Protocol/Reference/NSObject.html" title="\&lt;NSObject&#45;p\&gt;" alt="" coords="421,5,544,35"/>
+<area shape="rect" id="node8" href="doxygen-cocoa-touch-tags.xml$http://developer.apple.com/iphone/library/documentation/Cocoa/Reference/Foundation/Protocols/NSCopying_Protocol/Reference/Reference.html" title="\&lt;NSCopying&#45;p\&gt;" alt="" coords="27,181,155,211"/>
+<area shape="rect" id="node10" href="doxygen-cocoa-touch-tags.xml$http://developer.apple.com/iphone/library/documentation/Cocoa/Reference/Foundation/Protocols/NSCoding_Protocol/Reference/Reference.html" title="\&lt;NSCoding&#45;p\&gt;" alt="" coords="179,181,299,211"/>
+<area shape="rect" id="node19" href="$struct___c_p_gradient_element.html" title="A structure representing one node in a linked list of RGBA colors." alt="" coords="659,181,821,211"/>
+<area shape="rect" id="node22" href="$struct___c_p_r_g_b_a_color.html" title="RGBA color for gradients." alt="" coords="680,85,800,115"/>
+<area shape="rect" id="node27" href="doxygen-cocoa-touch-tags.xml$http://developer.apple.com/iphone/library/documentation/GraphicsImaging/Reference/CGFunction/Reference/reference.html.html#//apple_ref/doc/c_ref/CGFunctionRef" title="CGFunctionRef" alt="" coords="323,181,445,211"/>
+</map>

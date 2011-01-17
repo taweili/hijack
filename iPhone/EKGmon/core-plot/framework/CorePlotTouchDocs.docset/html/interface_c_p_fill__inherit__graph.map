@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="node11" href="$interface___c_p_fill_color.html" title="Draws CPColor area fills." alt="" coords="13,237,112,267"/>
+<area shape="rect" id="node13" href="$interface___c_p_fill_gradient.html" title="Draws CPGradient area fills." alt="" coords="136,237,259,267"/>
+<area shape="rect" id="node15" href="$interface___c_p_fill_image.html" title="Draws CPImage area fills." alt="" coords="283,237,389,267"/>
+<area shape="rect" id="node2" href="doxygen-cocoa-touch-tags.xml$http://developer.apple.com/iphone/library/documentation/Cocoa/Reference/Foundation/Classes/NSObject_Class/Reference/Reference.html" title="NSObject" alt="" coords="24,83,109,112"/>
+<area shape="rect" id="node4" href="doxygen-cocoa-touch-tags.xml$http://developer.apple.com/iPhone/library/documentation/Cocoa/Reference/Foundation/Protocols/NSObject_Protocol/Reference/NSObject.html" title="\&lt;NSObject&#45;p\&gt;" alt="" coords="5,5,128,35"/>
+<area shape="rect" id="node6" href="doxygen-cocoa-touch-tags.xml$http://developer.apple.com/iphone/library/documentation/Cocoa/Reference/Foundation/Protocols/NSCopying_Protocol/Reference/Reference.html" title="\&lt;NSCopying&#45;p\&gt;" alt="" coords="133,83,261,112"/>
+<area shape="rect" id="node8" href="doxygen-cocoa-touch-tags.xml$http://developer.apple.com/iphone/library/documentation/Cocoa/Reference/Foundation/Protocols/NSCoding_Protocol/Reference/Reference.html" title="\&lt;NSCoding&#45;p\&gt;" alt="" coords="285,83,405,112"/>
+</map>

@@ -1,0 +1,2563 @@
+// !$*UTF8*$!
+{
+	0B038CBD128B61D10080646F /* EKGData.m:264 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 0B0F2A6311ECD8C30035EF7E /* EKGData.m */;
+		functionName = "-symbolForScatterPlot:recordIndex:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 264;
+		location = EKGmon;
+		modificationTime = 316661021.332505;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	0B074B8D12DD0839008DA4F3 /* EKGData.m:195 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 0B0F2A6311ECD8C30035EF7E /* EKGData.m */;
+		functionName = "-appendWithUInt8:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 195;
+		location = LogicTests;
+		modificationTime = 316661021.335915;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	0B0D570112199BF300FFFFB3 /* LogicTests */ = {
+		activeExec = 0;
+	};
+	0B0D572112199CDA00FFFFB3 /* LogicTests.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {504, 468}}";
+			sepNavSelRange = "{656, 0}";
+			sepNavVisRange = "{267, 539}";
+		};
+	};
+	0B0D572212199CDA00FFFFB3 /* LogicTests.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {504, 559}}";
+			sepNavSelRange = "{335, 0}";
+			sepNavVisRange = "{155, 538}";
+		};
+	};
+	0B0D572B1219A04000FFFFB3 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 0B0D570312199BF300FFFFB3 /* LogicTests-Info.plist */;
+		name = "/Users/jbschne/Developer/Bedside Monitor/EKGmon/LogicTests-Info.plist";
+	};
+	0B0EFC72126F731000940845 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B0D572212199CDA00FFFFB3 /* LogicTests.m */;
+		name = "LogicTests.m: 20";
+		rLen = 0;
+		rLoc = 450;
+		rType = 0;
+		vrLen = 657;
+		vrLoc = 156;
+	};
+	0B0EFC73126F731000940845 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 0B3CF6E5126F3C71000761DF /* icon-nowatermark.png */;
+	};
+	0B0EFC74126F731000940845 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0BBC17001207491800A16684 /* samples.csv */;
+		name = "samples.csv: 8";
+		rLen = 0;
+		rLoc = 113;
+		rType = 0;
+		vrLen = 366;
+		vrLoc = 0;
+	};
+	0B0F2A3711ECD7350035EF7E /* EKGmon */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = EKGmon;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	0B0F2A4611ECD73B0035EF7E /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	0B0F2A4711ECD73B0035EF7E /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	0B0F2A5D11ECD86A0035EF7E /* SocketStream.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {870, 650}}";
+			sepNavSelRange = "{134, 0}";
+			sepNavVisRange = "{0, 801}";
+		};
+	};
+	0B0F2A5E11ECD86A0035EF7E /* SocketStream.mm */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{3374, 713}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 4441}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {870, 1703}}";
+			sepNavSelRange = "{337, 0}";
+			sepNavVisRange = "{1548, 693}";
+		};
+	};
+	0B0F2A6211ECD8C30035EF7E /* EKGData.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {870, 1664}}";
+			sepNavSelRange = "{1252, 78}";
+			sepNavVisRange = "{618, 1019}";
+		};
+	};
+	0B0F2A6311ECD8C30035EF7E /* EKGData.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {858, 7501}}";
+			sepNavSelRange = "{15288, 0}";
+			sepNavVisRange = "{15008, 925}";
+			sepNavWindowFrame = "{{15, 61}, {676, 817}}";
+		};
+	};
+	0B0F2A7E11ECDAE10035EF7E /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 0B0F2A6511ECD9770035EF7E /* hert_logo.png */;
+	};
+	0B0F2AF311ECE1DB0035EF7E /* EKGData.m:74 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 0B0F2A6311ECD8C30035EF7E /* EKGData.m */;
+		functionName = "-appendWithRawData:length:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 74;
+		location = EKGmon;
+		modificationTime = 316661021.327615;
+		originalNumberOfMultipleMatches = 0;
+		state = 2;
+	};
+	0B0F2B0811ECE2820035EF7E /* EKGData.m:417 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 0B0F2A6311ECD8C30035EF7E /* EKGData.m */;
+		functionName = "-detectQRS";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 417;
+		location = EKGmon;
+		modificationTime = 316661021.327888;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	0B2F7E24126FDEE700FF9ACA /* EKGData.m:98 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 0B0F2A6311ECD8C30035EF7E /* EKGData.m */;
+		functionName = "-appendWithRawData:length:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 98;
+		location = EKGmon;
+		modificationTime = 316661021.332075;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	0B3CF6EE126F3EB7000761DF /* Icon@2x.png */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 61}, {676, 817}}";
+		};
+	};
+	0B3CF72A126F4664000761DF /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 0B3CF6ED126F3EB7000761DF /* Icon.png */;
+	};
+	0B4E6C3012DFBAC100A7125D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0BB3D89512D66A43000887A8 /* aurio_helper.cpp */;
+		name = "aurio_helper.cpp: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 741;
+		vrLoc = 5401;
+	};
+	0B52D7D812B1622100E76CC9 /* EKGmonViewController.mm:54 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* EKGmonViewController.mm */;
+		functionName = "-startStream";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 54;
+		location = EKGmon;
+		modificationTime = 316661021.334271;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	0B6223E6126E071B00034993 /* PBXBookmarkGroup */ = {
+		isa = PBXBookmarkGroup;
+		children = (
+			0B622466126E2E8500034993 /* PBXTextBookmark */,
+		);
+		name = Root;
+	};
+	0B622466126E2E8500034993 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* EKGmonViewController.h */;
+		name = sourceSelection;
+		rLen = 0;
+		rLoc = 848;
+		rType = 0;
+		vrLen = 595;
+		vrLoc = 211;
+	};
+	0B62247F126E332300034993 /* EKGData.m:275 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 0B0F2A6311ECD8C30035EF7E /* EKGData.m */;
+		functionName = "-symbolForScatterPlot:recordIndex:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 275;
+		location = EKGmon;
+		modificationTime = 316661021.328435;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	0B69410712DFC1C200384138 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 0B3CF6EE126F3EB7000761DF /* Icon@2x.png */;
+	};
+	0B69410812DFC1C200384138 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 0B0F2A6511ECD9770035EF7E /* hert_logo.png */;
+	};
+	0B69410912DFC1C200384138 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* EKGmonViewController.mm */;
+		name = "EKGmonViewController.mm: 17";
+		rLen = 0;
+		rLoc = 337;
+		rType = 0;
+		vrLen = 654;
+		vrLoc = 0;
+	};
+	0B69410A12DFC1C200384138 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* EKGmonAppDelegate.h */;
+		name = "EKGmonAppDelegate.h: 7";
+		rLen = 0;
+		rLoc = 137;
+		rType = 0;
+		vrLen = 443;
+		vrLoc = 0;
+	};
+	0B69410B12DFC1C200384138 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* EKGmonAppDelegate.m */;
+		name = "EKGmonAppDelegate.m: 27";
+		rLen = 0;
+		rLoc = 663;
+		rType = 0;
+		vrLen = 791;
+		vrLoc = 1943;
+	};
+	0B69410C12DFC1C200384138 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* EKGmonViewController.h */;
+		name = "EKGmonViewController.h: 12";
+		rLen = 31;
+		rLoc = 206;
+		rType = 0;
+		vrLen = 749;
+		vrLoc = 638;
+	};
+	0B69410D12DFC1C200384138 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B0F2A6211ECD8C30035EF7E /* EKGData.h */;
+		name = "EKGData.h: 53";
+		rLen = 0;
+		rLoc = 1776;
+		rType = 0;
+		vrLen = 1242;
+		vrLoc = 1180;
+	};
+	0B69410F12DFC1C200384138 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* EKGmon_Prefix.pch */;
+		name = "EKGmon_Prefix.pch: 8";
+		rLen = 0;
+		rLoc = 209;
+		rType = 0;
+		vrLen = 217;
+		vrLoc = 0;
+	};
+	0B69411112DFC1C200384138 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B0F2A5D11ECD86A0035EF7E /* SocketStream.h */;
+		name = "SocketStream.h: 42";
+		rLen = 0;
+		rLoc = 1010;
+		rType = 0;
+		vrLen = 801;
+		vrLoc = 0;
+	};
+	0B69412512DFC29C00384138 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0BB3D89512D66A43000887A8 /* aurio_helper.cpp */;
+		name = "aurio_helper.cpp: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 564;
+		vrLoc = 0;
+	};
+	0B69417612DFC38E00384138 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B6CC1D0129A4A9C002CC729 /* Hijack.mm */;
+		name = "Hijack.mm: 222";
+		rLen = 0;
+		rLoc = 7131;
+		rType = 0;
+		vrLen = 1982;
+		vrLoc = 5617;
+	};
+	0B69417712DFC38E00384138 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0BB3D89412D66A43000887A8 /* aurio_helper.h */;
+		name = "aurio_helper.h: 58";
+		rLen = 0;
+		rLoc = 2657;
+		rType = 0;
+		vrLen = 1932;
+		vrLoc = 1265;
+	};
+	0B6CC1CF129A4A9C002CC729 /* Hijack.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {870, 598}}";
+			sepNavSelRange = "{925, 11}";
+			sepNavVisRange = "{0, 593}";
+		};
+	};
+	0B6CC1D0129A4A9C002CC729 /* Hijack.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {870, 6292}}";
+			sepNavSelRange = "{322, 0}";
+			sepNavVisRange = "{129, 1212}";
+			sepNavWindowFrame = "{{15, 63}, {850, 810}}";
+		};
+	};
+	0B6CC3CE129BCBA9002CC729 /* Hijack.mm:455 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 0B6CC1D0129A4A9C002CC729 /* Hijack.mm */;
+		functionName = "-start";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 455;
+		location = EKGmon;
+		modificationTime = 316661021.3326701;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	0B6CC3D0129BCBAE002CC729 /* Hijack.mm:393 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 0B6CC1D0129A4A9C002CC729 /* Hijack.mm */;
+		functionName = "-init";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 393;
+		location = EKGmon;
+		modificationTime = 316661021.332837;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	0B6CC3D2129BCC0E002CC729 /* Hijack.mm:482 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 0B6CC1D0129A4A9C002CC729 /* Hijack.mm */;
+		functionName = "handleInputBuffer()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 482;
+		location = EKGmon;
+		modificationTime = 316661021.333006;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	0B6CC433129BE79A002CC729 /* Hijack.mm:482 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 0B6CC1D0129A4A9C002CC729 /* Hijack.mm */;
+		functionName = "handleInputBuffer()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 482;
+		location = EKGmon;
+		modificationTime = 316661021.3332011;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	0B6CC492129BF832002CC729 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 14";
+		rLen = 0;
+		rLoc = 256;
+		rType = 0;
+		vrLen = 355;
+		vrLoc = 0;
+	};
+	0B6CC493129BF832002CC729 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B0D572112199CDA00FFFFB3 /* LogicTests.h */;
+		name = "LogicTests.h: 17";
+		rLen = 0;
+		rLoc = 656;
+		rType = 0;
+		vrLen = 539;
+		vrLoc = 267;
+	};
+	0B6CC494129BF832002CC729 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B0D572212199CDA00FFFFB3 /* LogicTests.m */;
+		name = "LogicTests.m: 18";
+		rLen = 0;
+		rLoc = 335;
+		rType = 0;
+		vrLen = 538;
+		vrLoc = 155;
+	};
+	0B6CC495129BF832002CC729 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 0B3CF6ED126F3EB7000761DF /* Icon.png */;
+	};
+	0B6CC496129BF832002CC729 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 0B3CF6E5126F3C71000761DF /* icon-nowatermark.png */;
+	};
+	0B6CC497129BF832002CC729 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 0B0D570312199BF300FFFFB3 /* LogicTests-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/jbschne/Developer/Bedside Monitor/EKGmon/LogicTests-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	0B6CC49A129BF832002CC729 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* EKGmonAppDelegate.m */;
+		name = "EKGmonAppDelegate.m: 10";
+		rLen = 0;
+		rLoc = 171;
+		rType = 0;
+		vrLen = 456;
+		vrLoc = 0;
+	};
+	0B6CC4C2129BFBBB002CC729 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* EKGmonAppDelegate.h */;
+		name = "EKGmonAppDelegate.h: 7";
+		rLen = 0;
+		rLoc = 137;
+		rType = 0;
+		vrLen = 443;
+		vrLoc = 0;
+	};
+	0B6CC4DF129C2978002CC729 /* Hijack.mm:448 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 0B6CC1D0129A4A9C002CC729 /* Hijack.mm */;
+		functionName = "-init";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 448;
+		location = EKGmon;
+		modificationTime = 316661021.33337;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	0B6CC580129C7058002CC729 /* Hijack.mm:482 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 0B6CC1D0129A4A9C002CC729 /* Hijack.mm */;
+		functionName = "handleInputBuffer()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 482;
+		location = EKGmon;
+		modificationTime = 316661021.333526;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	0B7E41ED1276201E00EB75F6 /* EKGmonViewController.mm:72 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* EKGmonViewController.mm */;
+		functionName = "-startStream";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 72;
+		location = EKGmon;
+		modificationTime = 316661021.33222;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	0B80514412DFC6C7005850BE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* EKGmon_Prefix.pch */;
+		name = "EKGmon_Prefix.pch: 8";
+		rLen = 0;
+		rLoc = 203;
+		rType = 0;
+		vrLen = 217;
+		vrLoc = 0;
+	};
+	0B80515712DFC774005850BE /* EKGData.m:490 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 0B0F2A6311ECD8C30035EF7E /* EKGData.m */;
+		functionName = "-initWithUInt8:atTime:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 490;
+		location = EKGmon;
+		modificationTime = 316661021.336042;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	0B80516612DFC906005850BE /* EKGData.m:246 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 0B0F2A6311ECD8C30035EF7E /* EKGData.m */;
+		functionName = "-numberForPlot:field:recordIndex:";
+		hitCount = 4;
+		ignoreCount = 0;
+		lineNumber = 246;
+		location = EKGmon;
+		modificationTime = 316661028.2934611;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	0B80516A12DFC90A005850BE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B0F2A5E11ECD86A0035EF7E /* SocketStream.mm */;
+		name = "SocketStream.mm: 19";
+		rLen = 0;
+		rLoc = 337;
+		rType = 0;
+		vrLen = 670;
+		vrLoc = 22;
+	};
+	0B8051EB12DFDB9C005850BE /* EKGData.m:244 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 0B0F2A6311ECD8C30035EF7E /* EKGData.m */;
+		functionName = "-numberForPlot:field:recordIndex:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 244;
+		location = EKGmon;
+		modificationTime = 316661021.336284;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	0B80523C12DFE696005850BE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B6CC1CF129A4A9C002CC729 /* Hijack.h */;
+		name = "Hijack.h: 43";
+		rLen = 11;
+		rLoc = 925;
+		rType = 0;
+		vrLen = 815;
+		vrLoc = 129;
+	};
+	0B80524012DFE696005850BE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B6CC1D0129A4A9C002CC729 /* Hijack.mm */;
+		name = "Hijack.mm: 457";
+		rLen = 0;
+		rLoc = 15820;
+		rType = 0;
+		vrLen = 130;
+		vrLoc = 15703;
+	};
+	0B80524112DFE696005850BE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B0F2A5D11ECD86A0035EF7E /* SocketStream.h */;
+		name = "SocketStream.h: 9";
+		rLen = 0;
+		rLoc = 134;
+		rType = 0;
+		vrLen = 801;
+		vrLoc = 0;
+	};
+	0B80524B12DFE889005850BE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B6CC1D0129A4A9C002CC729 /* Hijack.mm */;
+		name = "Hijack.mm: 81";
+		rLen = 0;
+		rLoc = 2661;
+		rType = 0;
+		vrLen = 884;
+		vrLoc = 2284;
+	};
+	0B80524C12DFE889005850BE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B0F2A6311ECD8C30035EF7E /* EKGData.m */;
+		name = "EKGData.m: 27";
+		rLen = 0;
+		rLoc = 711;
+		rType = 0;
+		vrLen = 984;
+		vrLoc = 277;
+	};
+	0B80524E12DFE889005850BE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B0F2A5E11ECD86A0035EF7E /* SocketStream.mm */;
+		name = "SocketStream.mm: 105";
+		rLen = 63;
+		rLoc = 3152;
+		rType = 0;
+		vrLen = 2005;
+		vrLoc = 2279;
+	};
+	0B80524F12DFE889005850BE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B0F2A6311ECD8C30035EF7E /* EKGData.m */;
+		name = "EKGData.m: 184";
+		rLen = 0;
+		rLoc = 6996;
+		rType = 0;
+		vrLen = 632;
+		vrLoc = 0;
+	};
+	0B80525012DFE889005850BE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B0F2A6211ECD8C30035EF7E /* EKGData.h */;
+		name = "EKGData.h: 14";
+		rLen = 0;
+		rLoc = 306;
+		rType = 0;
+		vrLen = 797;
+		vrLoc = 0;
+	};
+	0B80525112DFE889005850BE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* EKGmonViewController.h */;
+		name = "EKGmonViewController.h: 41";
+		rLen = 0;
+		rLoc = 1262;
+		rType = 0;
+		vrLen = 832;
+		vrLoc = 449;
+	};
+	0B80525212DFE889005850BE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* EKGmonViewController.mm */;
+		name = "EKGmonViewController.mm: 182";
+		rLen = 0;
+		rLoc = 6536;
+		rType = 0;
+		vrLen = 1411;
+		vrLoc = 5461;
+	};
+	0B80525F12DFED74005850BE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B0F2A6311ECD8C30035EF7E /* EKGData.m */;
+		name = "EKGData.m: 492";
+		rLen = 0;
+		rLoc = 16984;
+		rType = 0;
+		vrLen = 830;
+		vrLoc = 16231;
+	};
+	0B80526012DFED74005850BE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* EKGmonViewController.mm */;
+		name = "EKGmonViewController.mm: 182";
+		rLen = 0;
+		rLoc = 6536;
+		rType = 0;
+		vrLen = 1411;
+		vrLoc = 5461;
+	};
+	0B80526112DFED74005850BE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0BB3D89412D66A43000887A8 /* aurio_helper.h */;
+		name = "aurio_helper.h: 58";
+		rLen = 0;
+		rLoc = 2657;
+		rType = 0;
+		vrLen = 1932;
+		vrLoc = 1265;
+	};
+	0B80526212DFED74005850BE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B6CC1D0129A4A9C002CC729 /* Hijack.mm */;
+		name = "Hijack.mm: 222";
+		rLen = 0;
+		rLoc = 7131;
+		rType = 0;
+		vrLen = 1982;
+		vrLoc = 5617;
+	};
+	0B90B23B12A453C9002FB994 /* EKGData.m:100 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 0B0F2A6311ECD8C30035EF7E /* EKGData.m */;
+		functionName = "-appendWithRawData:length:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 100;
+		location = EKGmon;
+		modificationTime = 316661021.334031;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	0B90B26312A45C76002FB994 /* EKGmonViewController.mm:220 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* EKGmonViewController.mm */;
+		functionName = "-observeValueForKeyPath:ofObject:change:context:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 220;
+		location = EKGmon;
+		modificationTime = 316661021.334128;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	0B9C491811EE55CE00AA9A3C /* EKGData.m:387 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 0B0F2A6311ECD8C30035EF7E /* EKGData.m */;
+		functionName = "-detectQRS";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 387;
+		location = EKGmon;
+		modificationTime = 316661021.327984;
+		originalNumberOfMultipleMatches = 0;
+		state = 2;
+	};
+	0BA2229B12E366E600F78E35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B0F2A6311ECD8C30035EF7E /* EKGData.m */;
+		name = "EKGData.m: 492";
+		rLen = 0;
+		rLoc = 16984;
+		rType = 0;
+		vrLen = 819;
+		vrLoc = 16236;
+	};
+	0BA2229C12E366E600F78E35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* EKGmonViewController.mm */;
+		name = "EKGmonViewController.mm: 182";
+		rLen = 0;
+		rLoc = 6536;
+		rType = 0;
+		vrLen = 1316;
+		vrLoc = 5436;
+	};
+	0BA2229F12E366E600F78E35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0BB3D89412D66A43000887A8 /* aurio_helper.h */;
+		name = "aurio_helper.h: 58";
+		rLen = 0;
+		rLoc = 2657;
+		rType = 0;
+		vrLen = 1904;
+		vrLoc = 1265;
+	};
+	0BA222A012E366E600F78E35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B6CC1D0129A4A9C002CC729 /* Hijack.mm */;
+		name = "Hijack.mm: 222";
+		rLen = 0;
+		rLoc = 7131;
+		rType = 0;
+		vrLen = 1941;
+		vrLoc = 5617;
+	};
+	0BA222A612E367DC00F78E35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B0F2A6311ECD8C30035EF7E /* EKGData.m */;
+		name = "EKGData.m: 492";
+		rLen = 0;
+		rLoc = 16984;
+		rType = 0;
+		vrLen = 825;
+		vrLoc = 16236;
+	};
+	0BA222A712E367DC00F78E35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* EKGmonViewController.mm */;
+		name = "EKGmonViewController.mm: 182";
+		rLen = 0;
+		rLoc = 6536;
+		rType = 0;
+		vrLen = 1445;
+		vrLoc = 5436;
+	};
+	0BA222A812E367DC00F78E35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B6CC1D0129A4A9C002CC729 /* Hijack.mm */;
+		name = "Hijack.mm: 222";
+		rLen = 0;
+		rLoc = 7292;
+		rType = 0;
+		vrLen = 2018;
+		vrLoc = 5617;
+	};
+	0BA222A912E367DC00F78E35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0BB3D89412D66A43000887A8 /* aurio_helper.h */;
+		name = "aurio_helper.h: 58";
+		rLen = 0;
+		rLoc = 2657;
+		rType = 0;
+		vrLen = 1932;
+		vrLoc = 1265;
+	};
+	0BA222AE12E3712B00F78E35 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Incompatible type for argument 1 of 'dataPointWithNumber:atTime:'";
+		fRef = 0B0F2A6311ECD8C30035EF7E /* EKGData.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 179;
+		rType = 1;
+	};
+	0BA222AF12E3712B00F78E35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B0F2A6311ECD8C30035EF7E /* EKGData.m */;
+		name = "EKGData.m: 176";
+		rLen = 0;
+		rLoc = 6600;
+		rType = 0;
+		vrLen = 1476;
+		vrLoc = 4896;
+	};
+	0BA222B012E3712C00F78E35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B0F2A6311ECD8C30035EF7E /* EKGData.m */;
+		name = "EKGData.m: 172";
+		rLen = 0;
+		rLoc = 6443;
+		rType = 0;
+		vrLen = 894;
+		vrLoc = 6017;
+	};
+	0BA222B112E3712C00F78E35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B0F2A6211ECD8C30035EF7E /* EKGData.h */;
+		name = "EKGData.h: 98";
+		rLen = 0;
+		rLoc = 3362;
+		rType = 0;
+		vrLen = 1071;
+		vrLoc = 2923;
+	};
+	0BA222B212E3712C00F78E35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B0F2A6211ECD8C30035EF7E /* EKGData.h */;
+		name = "EKGData.h: 51";
+		rLen = 0;
+		rLoc = 1749;
+		rType = 0;
+		vrLen = 933;
+		vrLoc = 1357;
+	};
+	0BA222B312E3712C00F78E35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* EKGmonViewController.mm */;
+		name = "EKGmonViewController.mm: 177";
+		rLen = 0;
+		rLoc = 6313;
+		rType = 0;
+		vrLen = 1445;
+		vrLoc = 5436;
+	};
+	0BA222B412E3712C00F78E35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B6CC1D0129A4A9C002CC729 /* Hijack.mm */;
+		name = "Hijack.mm: 457";
+		rLen = 0;
+		rLoc = 15820;
+		rType = 0;
+		vrLen = 463;
+		vrLoc = 15539;
+	};
+	0BA222B512E3712C00F78E35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B6CC1D0129A4A9C002CC729 /* Hijack.mm */;
+		name = "Hijack.mm: 222";
+		rLen = 0;
+		rLoc = 7234;
+		rType = 0;
+		vrLen = 1064;
+		vrLoc = 6573;
+	};
+	0BA222BA12E3716000F78E35 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Incompatible Objective-C types 'struct NSNumber *', expected 'struct NSDecimalNumber *' when passing argument 1 of 'dataPointWithNumber:atTime:' from distinct Objective-C type";
+		fRef = 0B0F2A6311ECD8C30035EF7E /* EKGData.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 179;
+		rType = 1;
+	};
+	0BA222BB12E3716000F78E35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B0F2A6311ECD8C30035EF7E /* EKGData.m */;
+		name = "EKGData.m: 176";
+		rLen = 0;
+		rLoc = 6600;
+		rType = 0;
+		vrLen = 1019;
+		vrLoc = 5947;
+	};
+	0BA222BC12E3716000F78E35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B0F2A6311ECD8C30035EF7E /* EKGData.m */;
+		name = "EKGData.m: 167";
+		rLen = 0;
+		rLoc = 6380;
+		rType = 0;
+		vrLen = 819;
+		vrLoc = 6017;
+	};
+	0BA222BD12E3716000F78E35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B0F2A6211ECD8C30035EF7E /* EKGData.h */;
+		name = "EKGData.h: 51";
+		rLen = 0;
+		rLoc = 1749;
+		rType = 0;
+		vrLen = 933;
+		vrLoc = 1357;
+	};
+	0BA222BE12E3716000F78E35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B0F2A6211ECD8C30035EF7E /* EKGData.h */;
+		name = "EKGData.h: 109";
+		rLen = 0;
+		rLoc = 3787;
+		rType = 0;
+		vrLen = 849;
+		vrLoc = 3128;
+	};
+	0BA222BF12E3716000F78E35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B6CC1D0129A4A9C002CC729 /* Hijack.mm */;
+		name = "Hijack.mm: 224";
+		rLen = 0;
+		rLoc = 7360;
+		rType = 0;
+		vrLen = 1057;
+		vrLoc = 6614;
+	};
+	0BA222C212E3727E00F78E35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B0F2A6311ECD8C30035EF7E /* EKGData.m */;
+		name = "EKGData.m: 176";
+		rLen = 0;
+		rLoc = 6600;
+		rType = 0;
+		vrLen = 1019;
+		vrLoc = 5947;
+	};
+	0BA222C312E3727F00F78E35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B0F2A6211ECD8C30035EF7E /* EKGData.h */;
+		name = "EKGData.h: 32";
+		rLen = 0;
+		rLoc = 959;
+		rType = 0;
+		vrLen = 1073;
+		vrLoc = 1217;
+	};
+	0BA222C412E3727F00F78E35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B6CC1D0129A4A9C002CC729 /* Hijack.mm */;
+		name = "Hijack.mm: 222";
+		rLen = 0;
+		rLoc = 7292;
+		rType = 0;
+		vrLen = 893;
+		vrLoc = 6791;
+	};
+	0BA222C712E3733200F78E35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B0F2A6311ECD8C30035EF7E /* EKGData.m */;
+		name = "EKGData.m: 176";
+		rLen = 0;
+		rLoc = 6600;
+		rType = 0;
+		vrLen = 1019;
+		vrLoc = 5947;
+	};
+	0BA222C812E3733300F78E35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B0F2A6211ECD8C30035EF7E /* EKGData.h */;
+		name = "EKGData.h: 32";
+		rLen = 0;
+		rLoc = 959;
+		rType = 0;
+		vrLen = 1073;
+		vrLoc = 1217;
+	};
+	0BA222C912E3733300F78E35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B6CC1D0129A4A9C002CC729 /* Hijack.mm */;
+		name = "Hijack.mm: 224";
+		rLen = 0;
+		rLoc = 7367;
+		rType = 0;
+		vrLen = 1002;
+		vrLoc = 6634;
+	};
+	0BA222CC12E3826300F78E35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B0F2A6311ECD8C30035EF7E /* EKGData.m */;
+		name = "EKGData.m: 176";
+		rLen = 0;
+		rLoc = 6600;
+		rType = 0;
+		vrLen = 1019;
+		vrLoc = 5947;
+	};
+	0BA222CF12E382B300F78E35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B0F2A6311ECD8C30035EF7E /* EKGData.m */;
+		name = "EKGData.m: 176";
+		rLen = 0;
+		rLoc = 6600;
+		rType = 0;
+		vrLen = 1019;
+		vrLoc = 5947;
+	};
+	0BA222D212E382C900F78E35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B0F2A6311ECD8C30035EF7E /* EKGData.m */;
+		name = "EKGData.m: 176";
+		rLen = 0;
+		rLoc = 6600;
+		rType = 0;
+		vrLen = 1019;
+		vrLoc = 5947;
+	};
+	0BA222D512E3846000F78E35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B0F2A6311ECD8C30035EF7E /* EKGData.m */;
+		name = "EKGData.m: 177";
+		rLen = 0;
+		rLoc = 6600;
+		rType = 0;
+		vrLen = 1078;
+		vrLoc = 5947;
+	};
+	0BA222D612E3846600F78E35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B0F2A6211ECD8C30035EF7E /* EKGData.h */;
+		name = "EKGData.h: 55";
+		rLen = 0;
+		rLoc = 1897;
+		rType = 0;
+		vrLen = 1111;
+		vrLoc = 1217;
+	};
+	0BA222D712E3846600F78E35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B6CC1D0129A4A9C002CC729 /* Hijack.mm */;
+		name = "Hijack.mm: 81";
+		rLen = 0;
+		rLoc = 2661;
+		rType = 0;
+		vrLen = 989;
+		vrLoc = 2231;
+	};
+	0BA222D812E3846600F78E35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B6CC1D0129A4A9C002CC729 /* Hijack.mm */;
+		name = "Hijack.mm: 217";
+		rLen = 0;
+		rLoc = 6828;
+		rType = 0;
+		vrLen = 1138;
+		vrLoc = 6351;
+	};
+	0BA222D912E3846600F78E35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B6CC1D0129A4A9C002CC729 /* Hijack.mm */;
+		name = "Hijack.mm: 224";
+		rLen = 0;
+		rLoc = 7367;
+		rType = 0;
+		vrLen = 936;
+		vrLoc = 6873;
+	};
+	0BA222DA12E3846600F78E35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B0F2A6311ECD8C30035EF7E /* EKGData.m */;
+		name = "EKGData.m: 184";
+		rLen = 0;
+		rLoc = 6996;
+		rType = 0;
+		vrLen = 604;
+		vrLoc = 28;
+	};
+	0BA222DB12E3846600F78E35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B0F2A6311ECD8C30035EF7E /* EKGData.m */;
+		name = "EKGData.m: 192";
+		rLen = 0;
+		rLoc = 7171;
+		rType = 0;
+		vrLen = 733;
+		vrLoc = 6339;
+	};
+	0BA222E612E3858200F78E35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B0F2A6311ECD8C30035EF7E /* EKGData.m */;
+		name = "EKGData.m: 177";
+		rLen = 0;
+		rLoc = 6600;
+		rType = 0;
+		vrLen = 1078;
+		vrLoc = 5947;
+	};
+	0BA222EA12E386E100F78E35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B6CC1D0129A4A9C002CC729 /* Hijack.mm */;
+		name = "Hijack.mm: 217";
+		rLen = 0;
+		rLoc = 6828;
+		rType = 0;
+		vrLen = 1107;
+		vrLoc = 6431;
+	};
+	0BA222EB12E386E100F78E35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B0F2A6311ECD8C30035EF7E /* EKGData.m */;
+		name = "EKGData.m: 192";
+		rLen = 0;
+		rLoc = 7171;
+		rType = 0;
+		vrLen = 727;
+		vrLoc = 6414;
+	};
+	0BA222EC12E386E200F78E35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B0F2A6311ECD8C30035EF7E /* EKGData.m */;
+		name = "EKGData.m: 177";
+		rLen = 0;
+		rLoc = 6600;
+		rType = 0;
+		vrLen = 1078;
+		vrLoc = 5947;
+	};
+	0BA222ED12E386F600F78E35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B6CC1D0129A4A9C002CC729 /* Hijack.mm */;
+		name = "Hijack.mm: 217";
+		rLen = 0;
+		rLoc = 6828;
+		rType = 0;
+		vrLen = 1076;
+		vrLoc = 6462;
+	};
+	0BA222EE12E386F600F78E35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B0F2A6311ECD8C30035EF7E /* EKGData.m */;
+		name = "EKGData.m: 192";
+		rLen = 0;
+		rLoc = 7171;
+		rType = 0;
+		vrLen = 689;
+		vrLoc = 6452;
+	};
+	0BA222F312E3889200F78E35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B0F2A6311ECD8C30035EF7E /* EKGData.m */;
+		name = "EKGData.m: 177";
+		rLen = 0;
+		rLoc = 6600;
+		rType = 0;
+		vrLen = 1078;
+		vrLoc = 5947;
+	};
+	0BA222F412E388A000F78E35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B6CC1D0129A4A9C002CC729 /* Hijack.mm */;
+		name = "Hijack.mm: 222";
+		rLen = 0;
+		rLoc = 7288;
+		rType = 0;
+		vrLen = 1067;
+		vrLoc = 6506;
+	};
+	0BA222F512E388A000F78E35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B0F2A6311ECD8C30035EF7E /* EKGData.m */;
+		name = "EKGData.m: 192";
+		rLen = 0;
+		rLoc = 7171;
+		rType = 0;
+		vrLen = 643;
+		vrLoc = 6584;
+	};
+	0BA222FA12E390EB00F78E35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B0F2A6311ECD8C30035EF7E /* EKGData.m */;
+		name = "EKGData.m: 177";
+		rLen = 0;
+		rLoc = 6600;
+		rType = 0;
+		vrLen = 1078;
+		vrLoc = 5947;
+	};
+	0BA222FB12E3910800F78E35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B6CC1D0129A4A9C002CC729 /* Hijack.mm */;
+		name = "Hijack.mm: 222";
+		rLen = 162;
+		rLoc = 7131;
+		rType = 0;
+		vrLen = 1093;
+		vrLoc = 6573;
+	};
+	0BA222FC12E3910800F78E35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B0F2A6311ECD8C30035EF7E /* EKGData.m */;
+		name = "EKGData.m: 189";
+		rLen = 0;
+		rLoc = 7109;
+		rType = 0;
+		vrLen = 775;
+		vrLoc = 6452;
+	};
+	0BA2230512E3916300F78E35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B0F2A6311ECD8C30035EF7E /* EKGData.m */;
+		name = "EKGData.m: 177";
+		rLen = 0;
+		rLoc = 6600;
+		rType = 0;
+		vrLen = 1078;
+		vrLoc = 5947;
+	};
+	0BA2230812E391C400F78E35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B0F2A6311ECD8C30035EF7E /* EKGData.m */;
+		name = "EKGData.m: 177";
+		rLen = 0;
+		rLoc = 6600;
+		rType = 0;
+		vrLen = 1078;
+		vrLoc = 5947;
+	};
+	0BA2230912E391C700F78E35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B6CC1D0129A4A9C002CC729 /* Hijack.mm */;
+		name = "Hijack.mm: 222";
+		rLen = 162;
+		rLoc = 7131;
+		rType = 0;
+		vrLen = 1093;
+		vrLoc = 6573;
+	};
+	0BA2230A12E391C700F78E35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B0F2A6311ECD8C30035EF7E /* EKGData.m */;
+		name = "EKGData.m: 189";
+		rLen = 0;
+		rLoc = 7109;
+		rType = 0;
+		vrLen = 775;
+		vrLoc = 6452;
+	};
+	0BA2231312E3923700F78E35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B0F2A6311ECD8C30035EF7E /* EKGData.m */;
+		name = "EKGData.m: 177";
+		rLen = 0;
+		rLoc = 6600;
+		rType = 0;
+		vrLen = 1078;
+		vrLoc = 5947;
+	};
+	0BA2231812E39FB100F78E35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B0F2A6311ECD8C30035EF7E /* EKGData.m */;
+		name = "EKGData.m: 177";
+		rLen = 0;
+		rLoc = 6600;
+		rType = 0;
+		vrLen = 1078;
+		vrLoc = 5947;
+	};
+	0BA2231B12E39FFB00F78E35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B0F2A6311ECD8C30035EF7E /* EKGData.m */;
+		name = "EKGData.m: 177";
+		rLen = 0;
+		rLoc = 6600;
+		rType = 0;
+		vrLen = 1078;
+		vrLoc = 5947;
+	};
+	0BA2232412E3A2D700F78E35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B0F2A6311ECD8C30035EF7E /* EKGData.m */;
+		name = "EKGData.m: 177";
+		rLen = 0;
+		rLoc = 6600;
+		rType = 0;
+		vrLen = 1078;
+		vrLoc = 5947;
+	};
+	0BA2232B12E3A34500F78E35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B0F2A6311ECD8C30035EF7E /* EKGData.m */;
+		name = "EKGData.m: 177";
+		rLen = 0;
+		rLoc = 6600;
+		rType = 0;
+		vrLen = 1080;
+		vrLoc = 5947;
+	};
+	0BA2233212E3A37800F78E35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B0F2A6311ECD8C30035EF7E /* EKGData.m */;
+		name = "EKGData.m: 177";
+		rLen = 0;
+		rLoc = 6600;
+		rType = 0;
+		vrLen = 1080;
+		vrLoc = 5947;
+	};
+	0BA2233512E3A40700F78E35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B0F2A6311ECD8C30035EF7E /* EKGData.m */;
+		name = "EKGData.m: 177";
+		rLen = 0;
+		rLoc = 6600;
+		rType = 0;
+		vrLen = 1080;
+		vrLoc = 5947;
+	};
+	0BA2233812E3A4CD00F78E35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B0F2A6311ECD8C30035EF7E /* EKGData.m */;
+		name = "EKGData.m: 177";
+		rLen = 0;
+		rLoc = 6600;
+		rType = 0;
+		vrLen = 1080;
+		vrLoc = 5946;
+	};
+	0BA2233B12E3A62B00F78E35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B0F2A6311ECD8C30035EF7E /* EKGData.m */;
+		name = "EKGData.m: 177";
+		rLen = 0;
+		rLoc = 6600;
+		rType = 0;
+		vrLen = 1456;
+		vrLoc = 5379;
+	};
+	0BA2233E12E3A69600F78E35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B0F2A6311ECD8C30035EF7E /* EKGData.m */;
+		name = "EKGData.m: 177";
+		rLen = 0;
+		rLoc = 6600;
+		rType = 0;
+		vrLen = 1456;
+		vrLoc = 5379;
+	};
+	0BA2234312E3A6B900F78E35 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Property 'samplesPerSecond' requires the method 'setSamplesPerSecond:' to be defined - use @synthesize, @dynamic or provide a method implementation";
+		fRef = 0B0F2A6311ECD8C30035EF7E /* EKGData.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 459;
+		rType = 1;
+	};
+	0BA2234412E3A6B900F78E35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B0F2A6311ECD8C30035EF7E /* EKGData.m */;
+		name = "EKGData.m: 21";
+		rLen = 0;
+		rLoc = 378;
+		rType = 0;
+		vrLen = 907;
+		vrLoc = 0;
+	};
+	0BA2234F12E3A6F800F78E35 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Instance variable 'samplesPerSecond' accessed in class method";
+		fRef = 0B0F2A6311ECD8C30035EF7E /* EKGData.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 431;
+		rType = 1;
+	};
+	0BA2235012E3A6F800F78E35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B0F2A6311ECD8C30035EF7E /* EKGData.m */;
+		name = "EKGData.m: 430";
+		rLen = 0;
+		rLoc = 15288;
+		rType = 0;
+		vrLen = 969;
+		vrLoc = 14690;
+	};
+	0BA2235412E3A78900F78E35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B0F2A6311ECD8C30035EF7E /* EKGData.m */;
+		name = "EKGData.m: 431";
+		rLen = 0;
+		rLoc = 15288;
+		rType = 0;
+		vrLen = 924;
+		vrLoc = 14932;
+	};
+	0BA2235712E3A8C700F78E35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B0F2A6311ECD8C30035EF7E /* EKGData.m */;
+		name = "EKGData.m: 431";
+		rLen = 0;
+		rLoc = 15288;
+		rType = 0;
+		vrLen = 924;
+		vrLoc = 14932;
+	};
+	0BA2235812E3A8CA00F78E35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B0F2A5E11ECD86A0035EF7E /* SocketStream.mm */;
+		name = "SocketStream.mm: 19";
+		rLen = 0;
+		rLoc = 337;
+		rType = 0;
+		vrLen = 693;
+		vrLoc = 1548;
+	};
+	0BA2235912E3A8CA00F78E35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B6CC1CF129A4A9C002CC729 /* Hijack.h */;
+		name = "Hijack.h: 43";
+		rLen = 11;
+		rLoc = 925;
+		rType = 0;
+		vrLen = 593;
+		vrLoc = 0;
+	};
+	0BA2235A12E3A8CA00F78E35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B6CC1D0129A4A9C002CC729 /* Hijack.mm */;
+		name = "Hijack.mm: 18";
+		rLen = 0;
+		rLoc = 322;
+		rType = 0;
+		vrLen = 1212;
+		vrLoc = 129;
+	};
+	0BA2235B12E3A8CA00F78E35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* EKGmonViewController.mm */;
+		name = "EKGmonViewController.mm: 47";
+		rLen = 0;
+		rLoc = 1228;
+		rType = 0;
+		vrLen = 1628;
+		vrLoc = 651;
+	};
+	0BA2235C12E3A8CA00F78E35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B0F2A6311ECD8C30035EF7E /* EKGData.m */;
+		name = "EKGData.m: 168";
+		rLen = 0;
+		rLoc = 6380;
+		rType = 0;
+		vrLen = 1148;
+		vrLoc = 5867;
+	};
+	0BA2235D12E3A8CA00F78E35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B0F2A6311ECD8C30035EF7E /* EKGData.m */;
+		name = "EKGData.m: 448";
+		rLen = 0;
+		rLoc = 15783;
+		rType = 0;
+		vrLen = 855;
+		vrLoc = 0;
+	};
+	0BA2235E12E3A8CA00F78E35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B0F2A5E11ECD86A0035EF7E /* SocketStream.mm */;
+		name = "SocketStream.mm: 108";
+		rLen = 0;
+		rLoc = 3318;
+		rType = 0;
+		vrLen = 828;
+		vrLoc = 510;
+	};
+	0BA2235F12E3A8CA00F78E35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* EKGmonViewController.h */;
+		name = "EKGmonViewController.h: 43";
+		rLen = 0;
+		rLoc = 1262;
+		rType = 0;
+		vrLen = 706;
+		vrLoc = 699;
+	};
+	0BA2236012E3A8CA00F78E35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B0F2A6211ECD8C30035EF7E /* EKGData.h */;
+		name = "EKGData.h: 41";
+		rLen = 0;
+		rLoc = 1250;
+		rType = 0;
+		vrLen = 819;
+		vrLoc = 653;
+	};
+	0BA2236112E3A8CA00F78E35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* EKGmonViewController.mm */;
+		name = "EKGmonViewController.mm: 53";
+		rLen = 0;
+		rLoc = 1484;
+		rType = 0;
+		vrLen = 1088;
+		vrLoc = 809;
+	};
+	0BA2236212E3A8CA00F78E35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B0F2A6311ECD8C30035EF7E /* EKGData.m */;
+		name = "EKGData.m: 436";
+		rLen = 0;
+		rLoc = 15565;
+		rType = 0;
+		vrLen = 718;
+		vrLoc = 14885;
+	};
+	0BA2236312E3A8CA00F78E35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B0F2A6311ECD8C30035EF7E /* EKGData.m */;
+		name = "EKGData.m: 437";
+		rLen = 0;
+		rLoc = 15565;
+		rType = 0;
+		vrLen = 520;
+		vrLoc = 14209;
+	};
+	0BA2236612E3A8CA00F78E35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0BA2236712E3A8CA00F78E35 /* CPPlot.m */;
+		name = "CPPlot.m: 224";
+		rLen = 0;
+		rLoc = 6050;
+		rType = 0;
+		vrLen = 322;
+		vrLoc = 5896;
+	};
+	0BA2236712E3A8CA00F78E35 /* CPPlot.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = CPPlot.m;
+		path = "/Users/jbschne/Developer/BedsideMonitor/EKGmon/core-plot/framework/Source/CPPlot.m";
+		sourceTree = "<absolute>";
+	};
+	0BA2236812E3A8CA00F78E35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0BA2236912E3A8CA00F78E35 /* CPPlot.m */;
+		name = "CPPlot.m: 224";
+		rLen = 0;
+		rLoc = 6050;
+		rType = 0;
+		vrLen = 897;
+		vrLoc = 5370;
+	};
+	0BA2236912E3A8CA00F78E35 /* CPPlot.m */ = {
+		isa = PBXFileReference;
+		name = CPPlot.m;
+		path = "/Users/jbschne/Developer/BedsideMonitor/EKGmon/core-plot/framework/Source/CPPlot.m";
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {621, 12974}}";
+			sepNavSelRange = "{6050, 0}";
+			sepNavVisRange = "{5896, 322}";
+		};
+	};
+	0BA2237012E3AA5F00F78E35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B0F2A6311ECD8C30035EF7E /* EKGData.m */;
+		name = "EKGData.m: 432";
+		rLen = 0;
+		rLoc = 15288;
+		rType = 0;
+		vrLen = 925;
+		vrLoc = 15008;
+	};
+	0BA2237312E3AAD800F78E35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B0F2A6311ECD8C30035EF7E /* EKGData.m */;
+		name = "EKGData.m: 432";
+		rLen = 0;
+		rLoc = 15288;
+		rType = 0;
+		vrLen = 925;
+		vrLoc = 15008;
+	};
+	0BA2237812E3AB2F00F78E35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B0F2A6311ECD8C30035EF7E /* EKGData.m */;
+		name = "EKGData.m: 432";
+		rLen = 0;
+		rLoc = 15288;
+		rType = 0;
+		vrLen = 925;
+		vrLoc = 15008;
+	};
+	0BADD03D1267648700910D17 /* EKGData.m:285 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 0B0F2A6311ECD8C30035EF7E /* EKGData.m */;
+		functionName = "-detectQRSwithTuning:positiveSlope:negativeSlope:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 285;
+		location = EKGmon;
+		modificationTime = 316661021.328242;
+		originalNumberOfMultipleMatches = 0;
+		state = 2;
+	};
+	0BADD0471267659000910D17 /* EKGData.m:307 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 0B0F2A6311ECD8C30035EF7E /* EKGData.m */;
+		functionName = "-detectQRSwithTuning:positiveSlope:negativeSlope:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 307;
+		location = EKGmon;
+		modificationTime = 316661021.328344;
+		originalNumberOfMultipleMatches = 0;
+		state = 2;
+	};
+	0BB3D89412D66A43000887A8 /* aurio_helper.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {791, 1105}}";
+			sepNavSelRange = "{2657, 0}";
+			sepNavVisRange = "{1265, 1932}";
+			sepNavWindowFrame = "{{15, 63}, {850, 810}}";
+		};
+	};
+	0BB3D89512D66A43000887A8 /* aurio_helper.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {858, 2158}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1875}";
+		};
+	};
+	0BB3D8DC12D67EA4000887A8 /* CAXException.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {858, 2574}}";
+			sepNavSelRange = "{2953, 0}";
+			sepNavVisRange = "{2422, 878}";
+		};
+	};
+	0BB3D9DB12D6A638000887A8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B6CC1CF129A4A9C002CC729 /* Hijack.h */;
+		name = "Hijack.h: 27";
+		rLen = 0;
+		rLoc = 590;
+		rType = 0;
+		vrLen = 527;
+		vrLoc = 417;
+	};
+	0BB3D9F612D6A8D7000887A8 /* Hijack.mm:221 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 0B6CC1D0129A4A9C002CC729 /* Hijack.mm */;
+		functionName = "PerformThru( void *inRefCon, AudioUnitRenderActionFlags *ioActionFlags, const AudioTimeStamp *inTimeStamp, UInt32 inBusNumber, UInt32 inNumberFrames, AudioBufferList *ioData)";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 221;
+		location = EKGmon;
+		modificationTime = 316661021.334415;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	0BB3DA0212D6A920000887A8 /* EKGData.m:178 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 0B0F2A6311ECD8C30035EF7E /* EKGData.m */;
+		functionName = "-appendWithUInt8:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 178;
+		location = EKGmon;
+		modificationTime = 316661021.334565;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	0BB4B9B81278C96C00EA197F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B0D572112199CDA00FFFFB3 /* LogicTests.h */;
+		name = "LogicTests.h: 18";
+		rLen = 0;
+		rLoc = 700;
+		rType = 0;
+		vrLen = 805;
+		vrLoc = 78;
+	};
+	0BB4B9D91278D0B100EA197F /* EKGmonViewController.mm:25 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* EKGmonViewController.mm */;
+		functionName = "-dismissKeyboard:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 25;
+		location = EKGmon;
+		modificationTime = 316661021.332391;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	0BBC17001207491800A16684 /* samples.csv */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {785, 97253}}";
+			sepNavSelRange = "{161, 0}";
+			sepNavVisRange = "{75, 123}";
+		};
+	};
+	0BD02C5F12B2C7E400180A4D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0BBC17001207491800A16684 /* samples.csv */;
+		name = "samples.csv: 12";
+		rLen = 0;
+		rLoc = 161;
+		rType = 0;
+		vrLen = 123;
+		vrLoc = 75;
+	};
+	0BDF7FF8126F879400D50023 /* EKGData.m:61 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 0B0F2A6311ECD8C30035EF7E /* EKGData.m */;
+		functionName = "-appendWithRawData:length:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 61;
+		location = EKGmon;
+		modificationTime = 316661021.328578;
+		originalNumberOfMultipleMatches = 0;
+		state = 2;
+	};
+	0BDF8005126F89BD00D50023 /* SocketStream.mm:123 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 0B0F2A5E11ECD86A0035EF7E /* SocketStream.mm */;
+		functionName = "-stream:handleEvent:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 123;
+		location = EKGmon;
+		modificationTime = 316661021.328668;
+		originalNumberOfMultipleMatches = 0;
+		state = 2;
+	};
+	0BDF808C126FABB000D50023 /* EKGData.m:436 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 0B0F2A6311ECD8C30035EF7E /* EKGData.m */;
+		functionName = "+getAllDecimals:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 436;
+		location = EKGmon;
+		modificationTime = 316661021.328736;
+		originalNumberOfMultipleMatches = 0;
+		state = 2;
+	};
+	0BE1605011F55EE200EE2C17 /* EKGData.m:365 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 0B0F2A6311ECD8C30035EF7E /* EKGData.m */;
+		functionName = "-detectQRS";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 365;
+		location = EKGmon;
+		modificationTime = 316661021.328091;
+		originalNumberOfMultipleMatches = 0;
+		state = 2;
+	};
+	0BE1606A11F5650000EE2C17 /* SocketStream.mm:123 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 0B0F2A5E11ECD86A0035EF7E /* SocketStream.mm */;
+		functionName = "-stream:handleEvent:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 123;
+		location = EKGmon;
+		modificationTime = 316661021.328171;
+		originalNumberOfMultipleMatches = 0;
+		state = 2;
+	};
+	0BEA191512DC9B8700341381 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0BB3D89412D66A43000887A8 /* aurio_helper.h */;
+		name = "aurio_helper.h: 58";
+		rLen = 0;
+		rLoc = 2657;
+		rType = 0;
+		vrLen = 1179;
+		vrLoc = 1873;
+	};
+	0BEA194012DCA56B00341381 /* EKGData.m:179 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 0B0F2A6311ECD8C30035EF7E /* EKGData.m */;
+		functionName = "-appendWithUInt8:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 179;
+		location = LogicTests;
+		modificationTime = 316661021.334691;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	0BEA194312DCA71F00341381 /* EKGmonViewController.mm:143 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* EKGmonViewController.mm */;
+		functionName = "-viewDidLoad";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 143;
+		location = EKGmon;
+		modificationTime = 316661021.334833;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	0BEA194512DCA72400341381 /* EKGmonViewController.mm:147 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* EKGmonViewController.mm */;
+		functionName = "-viewDidLoad";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 147;
+		location = EKGmon;
+		modificationTime = 316661021.334965;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	0BEA194712DCA72900341381 /* EKGmonViewController.mm:155 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* EKGmonViewController.mm */;
+		functionName = "-viewDidLoad";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 155;
+		location = EKGmon;
+		modificationTime = 316661022.57217;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	0BEA194912DCA72B00341381 /* EKGmonViewController.mm:165 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* EKGmonViewController.mm */;
+		functionName = "-viewDidLoad";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 165;
+		location = EKGmon;
+		modificationTime = 316661021.335207;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	0BEA194B12DCA72D00341381 /* EKGmonViewController.mm:166 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* EKGmonViewController.mm */;
+		functionName = "-viewDidLoad";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 166;
+		location = EKGmon;
+		modificationTime = 316661021.335345;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	0BEA194D12DCA73600341381 /* EKGmonViewController.mm:190 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* EKGmonViewController.mm */;
+		functionName = "-viewDidLoad";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 190;
+		location = EKGmon;
+		modificationTime = 316661021.335449;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	0BEA194F12DCA73A00341381 /* EKGmonViewController.mm:193 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* EKGmonViewController.mm */;
+		functionName = "-viewDidLoad";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 193;
+		location = EKGmon;
+		modificationTime = 316661021.3356;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	0BEA196312DCA7F300341381 /* EKGmonViewController.mm:247 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* EKGmonViewController.mm */;
+		functionName = "-didReceiveMemoryWarning";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 247;
+		location = EKGmon;
+		modificationTime = 316661021.3357869;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	0BEAC3B9129DB58A00805437 /* Hijack.mm:482 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 0B6CC1D0129A4A9C002CC729 /* Hijack.mm */;
+		functionName = "handleInputBuffer()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 482;
+		location = EKGmon;
+		modificationTime = 316661021.333674;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	0BEAC3DE129DB7E200805437 /* EKGmonViewController.mm:203 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* EKGmonViewController.mm */;
+		functionName = "-observeValueForKeyPath:ofObject:change:context:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 203;
+		location = EKGmon;
+		modificationTime = 316661021.333841;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	1D3623240D0F684500981E51 /* EKGmonAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {870, 427}}";
+			sepNavSelRange = "{137, 0}";
+			sepNavVisRange = "{0, 443}";
+		};
+	};
+	1D3623250D0F684500981E51 /* EKGmonAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {621, 1326}}";
+			sepNavSelRange = "{593, 0}";
+			sepNavVisRange = "{240, 893}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* EKGmon */ = {
+		activeExec = 0;
+		executables = (
+			0B0F2A3711ECD7350035EF7E /* EKGmon */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* EKGmonViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {870, 806}}";
+			sepNavSelRange = "{1262, 0}";
+			sepNavVisRange = "{699, 706}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* EKGmonViewController.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {870, 3458}}";
+			sepNavSelRange = "{1701, 0}";
+			sepNavVisRange = "{1229, 1205}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeArchitecturePreference = armv7;
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 0B0F2A3711ECD7350035EF7E /* EKGmon */;
+		activeSDKPreference = iphoneos4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* EKGmon */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* EKGmon */,
+		);
+		breakpoints = (
+			0B0F2AF311ECE1DB0035EF7E /* EKGData.m:74 */,
+			0B0F2B0811ECE2820035EF7E /* EKGData.m:417 */,
+			0B9C491811EE55CE00AA9A3C /* EKGData.m:387 */,
+			0BE1605011F55EE200EE2C17 /* EKGData.m:365 */,
+			0BE1606A11F5650000EE2C17 /* SocketStream.mm:123 */,
+			0BADD03D1267648700910D17 /* EKGData.m:285 */,
+			0BADD0471267659000910D17 /* EKGData.m:307 */,
+			0B62247F126E332300034993 /* EKGData.m:275 */,
+			0BDF7FF8126F879400D50023 /* EKGData.m:61 */,
+			0BDF8005126F89BD00D50023 /* SocketStream.mm:123 */,
+			0BDF808C126FABB000D50023 /* EKGData.m:436 */,
+			0B2F7E24126FDEE700FF9ACA /* EKGData.m:98 */,
+			0B7E41ED1276201E00EB75F6 /* EKGmonViewController.mm:72 */,
+			0BB4B9D91278D0B100EA197F /* EKGmonViewController.mm:25 */,
+			0B038CBD128B61D10080646F /* EKGData.m:264 */,
+			0B6CC3CE129BCBA9002CC729 /* Hijack.mm:455 */,
+			0B6CC3D0129BCBAE002CC729 /* Hijack.mm:393 */,
+			0B6CC3D2129BCC0E002CC729 /* Hijack.mm:482 */,
+			0B6CC433129BE79A002CC729 /* Hijack.mm:482 */,
+			0B6CC4DF129C2978002CC729 /* Hijack.mm:448 */,
+			0B6CC580129C7058002CC729 /* Hijack.mm:482 */,
+			0BEAC3B9129DB58A00805437 /* Hijack.mm:482 */,
+			0BEAC3DE129DB7E200805437 /* EKGmonViewController.mm:203 */,
+			0B90B23B12A453C9002FB994 /* EKGData.m:100 */,
+			0B90B26312A45C76002FB994 /* EKGmonViewController.mm:220 */,
+			0B52D7D812B1622100E76CC9 /* EKGmonViewController.mm:54 */,
+			0BB3D9F612D6A8D7000887A8 /* Hijack.mm:221 */,
+			0BB3DA0212D6A920000887A8 /* EKGData.m:178 */,
+			0BEA194012DCA56B00341381 /* EKGData.m:179 */,
+			0BEA194312DCA71F00341381 /* EKGmonViewController.mm:143 */,
+			0BEA194512DCA72400341381 /* EKGmonViewController.mm:147 */,
+			0BEA194712DCA72900341381 /* EKGmonViewController.mm:155 */,
+			0BEA194912DCA72B00341381 /* EKGmonViewController.mm:165 */,
+			0BEA194B12DCA72D00341381 /* EKGmonViewController.mm:166 */,
+			0BEA194D12DCA73600341381 /* EKGmonViewController.mm:190 */,
+			0BEA194F12DCA73A00341381 /* EKGmonViewController.mm:193 */,
+			0BEA196312DCA7F300341381 /* EKGmonViewController.mm:247 */,
+			0B074B8D12DD0839008DA4F3 /* EKGData.m:195 */,
+			0B80515712DFC774005850BE /* EKGData.m:490 */,
+			0B80516612DFC906005850BE /* EKGData.m:246 */,
+			0B8051EB12DFDB9C005850BE /* EKGData.m:244 */,
+		);
+		codeSenseManager = 0B0F2A4711ECD73B0035EF7E /* Code sense */;
+		executables = (
+			0B0F2A3711ECD7350035EF7E /* EKGmon */,
+		);
+		perUserDictionary = {
+			"PBXConfiguration.PBXBreakpointsDataSource.v1:1CA1AED706398EBD00589147" = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBreakpointsDataSource_BreakpointID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					198,
+					20,
+					99,
+					99,
+					29,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBreakpointsDataSource_ActionID,
+					PBXBreakpointsDataSource_TypeID,
+					PBXBreakpointsDataSource_BreakpointID,
+					PBXBreakpointsDataSource_UseID,
+					PBXBreakpointsDataSource_LocationID,
+					PBXBreakpointsDataSource_ConditionID,
+					PBXBreakpointsDataSource_IgnoreCountID,
+					PBXBreakpointsDataSource_ContinueID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					580,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					692,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.XCSCMDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					583,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_SCM_ColumnID,
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					652,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 316892291;
+			PBXWorkspaceStateSaveDate = 316892291;
+		};
+		perUserProjectItems = {
+			0B0D572B1219A04000FFFFB3 = 0B0D572B1219A04000FFFFB3 /* PBXBookmark */;
+			0B0EFC72126F731000940845 = 0B0EFC72126F731000940845 /* PBXTextBookmark */;
+			0B0EFC73126F731000940845 = 0B0EFC73126F731000940845 /* PBXBookmark */;
+			0B0EFC74126F731000940845 = 0B0EFC74126F731000940845 /* PBXTextBookmark */;
+			0B0F2A7E11ECDAE10035EF7E = 0B0F2A7E11ECDAE10035EF7E /* PBXBookmark */;
+			0B3CF72A126F4664000761DF = 0B3CF72A126F4664000761DF /* PBXBookmark */;
+			0B4E6C3012DFBAC100A7125D = 0B4E6C3012DFBAC100A7125D /* PBXTextBookmark */;
+			0B69410712DFC1C200384138 = 0B69410712DFC1C200384138 /* PBXBookmark */;
+			0B69410812DFC1C200384138 = 0B69410812DFC1C200384138 /* PBXBookmark */;
+			0B69410912DFC1C200384138 = 0B69410912DFC1C200384138 /* PBXTextBookmark */;
+			0B69410A12DFC1C200384138 = 0B69410A12DFC1C200384138 /* PBXTextBookmark */;
+			0B69410B12DFC1C200384138 = 0B69410B12DFC1C200384138 /* PBXTextBookmark */;
+			0B69410C12DFC1C200384138 = 0B69410C12DFC1C200384138 /* PBXTextBookmark */;
+			0B69410D12DFC1C200384138 = 0B69410D12DFC1C200384138 /* PBXTextBookmark */;
+			0B69410F12DFC1C200384138 = 0B69410F12DFC1C200384138 /* PBXTextBookmark */;
+			0B69411112DFC1C200384138 = 0B69411112DFC1C200384138 /* PBXTextBookmark */;
+			0B69412512DFC29C00384138 = 0B69412512DFC29C00384138 /* PBXTextBookmark */;
+			0B69417612DFC38E00384138 = 0B69417612DFC38E00384138 /* PBXTextBookmark */;
+			0B69417712DFC38E00384138 = 0B69417712DFC38E00384138 /* PBXTextBookmark */;
+			0B6CC492129BF832002CC729 = 0B6CC492129BF832002CC729 /* PBXTextBookmark */;
+			0B6CC493129BF832002CC729 = 0B6CC493129BF832002CC729 /* PBXTextBookmark */;
+			0B6CC494129BF832002CC729 = 0B6CC494129BF832002CC729 /* PBXTextBookmark */;
+			0B6CC495129BF832002CC729 = 0B6CC495129BF832002CC729 /* PBXBookmark */;
+			0B6CC496129BF832002CC729 = 0B6CC496129BF832002CC729 /* PBXBookmark */;
+			0B6CC497129BF832002CC729 = 0B6CC497129BF832002CC729 /* PlistBookmark */;
+			0B6CC49A129BF832002CC729 = 0B6CC49A129BF832002CC729 /* PBXTextBookmark */;
+			0B6CC4C2129BFBBB002CC729 = 0B6CC4C2129BFBBB002CC729 /* PBXTextBookmark */;
+			0B80514412DFC6C7005850BE = 0B80514412DFC6C7005850BE /* PBXTextBookmark */;
+			0B80516A12DFC90A005850BE = 0B80516A12DFC90A005850BE /* PBXTextBookmark */;
+			0B80523C12DFE696005850BE = 0B80523C12DFE696005850BE /* PBXTextBookmark */;
+			0B80524012DFE696005850BE = 0B80524012DFE696005850BE /* PBXTextBookmark */;
+			0B80524112DFE696005850BE = 0B80524112DFE696005850BE /* PBXTextBookmark */;
+			0B80524B12DFE889005850BE = 0B80524B12DFE889005850BE /* PBXTextBookmark */;
+			0B80524C12DFE889005850BE = 0B80524C12DFE889005850BE /* PBXTextBookmark */;
+			0B80524E12DFE889005850BE = 0B80524E12DFE889005850BE /* PBXTextBookmark */;
+			0B80524F12DFE889005850BE = 0B80524F12DFE889005850BE /* PBXTextBookmark */;
+			0B80525012DFE889005850BE = 0B80525012DFE889005850BE /* PBXTextBookmark */;
+			0B80525112DFE889005850BE = 0B80525112DFE889005850BE /* PBXTextBookmark */;
+			0B80525212DFE889005850BE = 0B80525212DFE889005850BE /* PBXTextBookmark */;
+			0B80525F12DFED74005850BE = 0B80525F12DFED74005850BE /* PBXTextBookmark */;
+			0B80526012DFED74005850BE = 0B80526012DFED74005850BE /* PBXTextBookmark */;
+			0B80526112DFED74005850BE = 0B80526112DFED74005850BE /* PBXTextBookmark */;
+			0B80526212DFED74005850BE = 0B80526212DFED74005850BE /* PBXTextBookmark */;
+			0BA2229B12E366E600F78E35 /* PBXTextBookmark */ = 0BA2229B12E366E600F78E35 /* PBXTextBookmark */;
+			0BA2229C12E366E600F78E35 /* PBXTextBookmark */ = 0BA2229C12E366E600F78E35 /* PBXTextBookmark */;
+			0BA2229F12E366E600F78E35 /* PBXTextBookmark */ = 0BA2229F12E366E600F78E35 /* PBXTextBookmark */;
+			0BA222A012E366E600F78E35 /* PBXTextBookmark */ = 0BA222A012E366E600F78E35 /* PBXTextBookmark */;
+			0BA222A612E367DC00F78E35 /* PBXTextBookmark */ = 0BA222A612E367DC00F78E35 /* PBXTextBookmark */;
+			0BA222A712E367DC00F78E35 /* PBXTextBookmark */ = 0BA222A712E367DC00F78E35 /* PBXTextBookmark */;
+			0BA222A812E367DC00F78E35 /* PBXTextBookmark */ = 0BA222A812E367DC00F78E35 /* PBXTextBookmark */;
+			0BA222A912E367DC00F78E35 /* PBXTextBookmark */ = 0BA222A912E367DC00F78E35 /* PBXTextBookmark */;
+			0BA222AE12E3712B00F78E35 /* XCBuildMessageTextBookmark */ = 0BA222AE12E3712B00F78E35 /* XCBuildMessageTextBookmark */;
+			0BA222AF12E3712B00F78E35 /* PBXTextBookmark */ = 0BA222AF12E3712B00F78E35 /* PBXTextBookmark */;
+			0BA222B012E3712C00F78E35 /* PBXTextBookmark */ = 0BA222B012E3712C00F78E35 /* PBXTextBookmark */;
+			0BA222B112E3712C00F78E35 /* PBXTextBookmark */ = 0BA222B112E3712C00F78E35 /* PBXTextBookmark */;
+			0BA222B212E3712C00F78E35 /* PBXTextBookmark */ = 0BA222B212E3712C00F78E35 /* PBXTextBookmark */;
+			0BA222B312E3712C00F78E35 /* PBXTextBookmark */ = 0BA222B312E3712C00F78E35 /* PBXTextBookmark */;
+			0BA222B412E3712C00F78E35 /* PBXTextBookmark */ = 0BA222B412E3712C00F78E35 /* PBXTextBookmark */;
+			0BA222B512E3712C00F78E35 /* PBXTextBookmark */ = 0BA222B512E3712C00F78E35 /* PBXTextBookmark */;
+			0BA222BA12E3716000F78E35 /* XCBuildMessageTextBookmark */ = 0BA222BA12E3716000F78E35 /* XCBuildMessageTextBookmark */;
+			0BA222BB12E3716000F78E35 /* PBXTextBookmark */ = 0BA222BB12E3716000F78E35 /* PBXTextBookmark */;
+			0BA222BC12E3716000F78E35 /* PBXTextBookmark */ = 0BA222BC12E3716000F78E35 /* PBXTextBookmark */;
+			0BA222BD12E3716000F78E35 /* PBXTextBookmark */ = 0BA222BD12E3716000F78E35 /* PBXTextBookmark */;
+			0BA222BE12E3716000F78E35 /* PBXTextBookmark */ = 0BA222BE12E3716000F78E35 /* PBXTextBookmark */;
+			0BA222BF12E3716000F78E35 /* PBXTextBookmark */ = 0BA222BF12E3716000F78E35 /* PBXTextBookmark */;
+			0BA222C212E3727E00F78E35 /* PBXTextBookmark */ = 0BA222C212E3727E00F78E35 /* PBXTextBookmark */;
+			0BA222C312E3727F00F78E35 /* PBXTextBookmark */ = 0BA222C312E3727F00F78E35 /* PBXTextBookmark */;
+			0BA222C412E3727F00F78E35 /* PBXTextBookmark */ = 0BA222C412E3727F00F78E35 /* PBXTextBookmark */;
+			0BA222C712E3733200F78E35 /* PBXTextBookmark */ = 0BA222C712E3733200F78E35 /* PBXTextBookmark */;
+			0BA222C812E3733300F78E35 /* PBXTextBookmark */ = 0BA222C812E3733300F78E35 /* PBXTextBookmark */;
+			0BA222C912E3733300F78E35 /* PBXTextBookmark */ = 0BA222C912E3733300F78E35 /* PBXTextBookmark */;
+			0BA222CC12E3826300F78E35 /* PBXTextBookmark */ = 0BA222CC12E3826300F78E35 /* PBXTextBookmark */;
+			0BA222CF12E382B300F78E35 /* PBXTextBookmark */ = 0BA222CF12E382B300F78E35 /* PBXTextBookmark */;
+			0BA222D212E382C900F78E35 /* PBXTextBookmark */ = 0BA222D212E382C900F78E35 /* PBXTextBookmark */;
+			0BA222D512E3846000F78E35 /* PBXTextBookmark */ = 0BA222D512E3846000F78E35 /* PBXTextBookmark */;
+			0BA222D612E3846600F78E35 /* PBXTextBookmark */ = 0BA222D612E3846600F78E35 /* PBXTextBookmark */;
+			0BA222D712E3846600F78E35 /* PBXTextBookmark */ = 0BA222D712E3846600F78E35 /* PBXTextBookmark */;
+			0BA222D812E3846600F78E35 /* PBXTextBookmark */ = 0BA222D812E3846600F78E35 /* PBXTextBookmark */;
+			0BA222D912E3846600F78E35 /* PBXTextBookmark */ = 0BA222D912E3846600F78E35 /* PBXTextBookmark */;
+			0BA222DA12E3846600F78E35 /* PBXTextBookmark */ = 0BA222DA12E3846600F78E35 /* PBXTextBookmark */;
+			0BA222DB12E3846600F78E35 /* PBXTextBookmark */ = 0BA222DB12E3846600F78E35 /* PBXTextBookmark */;
+			0BA222E612E3858200F78E35 /* PBXTextBookmark */ = 0BA222E612E3858200F78E35 /* PBXTextBookmark */;
+			0BA222EA12E386E100F78E35 /* PBXTextBookmark */ = 0BA222EA12E386E100F78E35 /* PBXTextBookmark */;
+			0BA222EB12E386E100F78E35 /* PBXTextBookmark */ = 0BA222EB12E386E100F78E35 /* PBXTextBookmark */;
+			0BA222EC12E386E200F78E35 /* PBXTextBookmark */ = 0BA222EC12E386E200F78E35 /* PBXTextBookmark */;
+			0BA222ED12E386F600F78E35 /* PBXTextBookmark */ = 0BA222ED12E386F600F78E35 /* PBXTextBookmark */;
+			0BA222EE12E386F600F78E35 /* PBXTextBookmark */ = 0BA222EE12E386F600F78E35 /* PBXTextBookmark */;
+			0BA222F312E3889200F78E35 /* PBXTextBookmark */ = 0BA222F312E3889200F78E35 /* PBXTextBookmark */;
+			0BA222F412E388A000F78E35 /* PBXTextBookmark */ = 0BA222F412E388A000F78E35 /* PBXTextBookmark */;
+			0BA222F512E388A000F78E35 /* PBXTextBookmark */ = 0BA222F512E388A000F78E35 /* PBXTextBookmark */;
+			0BA222FA12E390EB00F78E35 /* PBXTextBookmark */ = 0BA222FA12E390EB00F78E35 /* PBXTextBookmark */;
+			0BA222FB12E3910800F78E35 /* PBXTextBookmark */ = 0BA222FB12E3910800F78E35 /* PBXTextBookmark */;
+			0BA222FC12E3910800F78E35 /* PBXTextBookmark */ = 0BA222FC12E3910800F78E35 /* PBXTextBookmark */;
+			0BA2230512E3916300F78E35 /* PBXTextBookmark */ = 0BA2230512E3916300F78E35 /* PBXTextBookmark */;
+			0BA2230812E391C400F78E35 /* PBXTextBookmark */ = 0BA2230812E391C400F78E35 /* PBXTextBookmark */;
+			0BA2230912E391C700F78E35 /* PBXTextBookmark */ = 0BA2230912E391C700F78E35 /* PBXTextBookmark */;
+			0BA2230A12E391C700F78E35 /* PBXTextBookmark */ = 0BA2230A12E391C700F78E35 /* PBXTextBookmark */;
+			0BA2231312E3923700F78E35 /* PBXTextBookmark */ = 0BA2231312E3923700F78E35 /* PBXTextBookmark */;
+			0BA2231812E39FB100F78E35 /* PBXTextBookmark */ = 0BA2231812E39FB100F78E35 /* PBXTextBookmark */;
+			0BA2231B12E39FFB00F78E35 /* PBXTextBookmark */ = 0BA2231B12E39FFB00F78E35 /* PBXTextBookmark */;
+			0BA2232412E3A2D700F78E35 /* PBXTextBookmark */ = 0BA2232412E3A2D700F78E35 /* PBXTextBookmark */;
+			0BA2232B12E3A34500F78E35 /* PBXTextBookmark */ = 0BA2232B12E3A34500F78E35 /* PBXTextBookmark */;
+			0BA2233212E3A37800F78E35 /* PBXTextBookmark */ = 0BA2233212E3A37800F78E35 /* PBXTextBookmark */;
+			0BA2233512E3A40700F78E35 /* PBXTextBookmark */ = 0BA2233512E3A40700F78E35 /* PBXTextBookmark */;
+			0BA2233812E3A4CD00F78E35 /* PBXTextBookmark */ = 0BA2233812E3A4CD00F78E35 /* PBXTextBookmark */;
+			0BA2233B12E3A62B00F78E35 /* PBXTextBookmark */ = 0BA2233B12E3A62B00F78E35 /* PBXTextBookmark */;
+			0BA2233E12E3A69600F78E35 /* PBXTextBookmark */ = 0BA2233E12E3A69600F78E35 /* PBXTextBookmark */;
+			0BA2234312E3A6B900F78E35 /* XCBuildMessageTextBookmark */ = 0BA2234312E3A6B900F78E35 /* XCBuildMessageTextBookmark */;
+			0BA2234412E3A6B900F78E35 /* PBXTextBookmark */ = 0BA2234412E3A6B900F78E35 /* PBXTextBookmark */;
+			0BA2234F12E3A6F800F78E35 /* XCBuildMessageTextBookmark */ = 0BA2234F12E3A6F800F78E35 /* XCBuildMessageTextBookmark */;
+			0BA2235012E3A6F800F78E35 /* PBXTextBookmark */ = 0BA2235012E3A6F800F78E35 /* PBXTextBookmark */;
+			0BA2235412E3A78900F78E35 /* PBXTextBookmark */ = 0BA2235412E3A78900F78E35 /* PBXTextBookmark */;
+			0BA2235712E3A8C700F78E35 /* PBXTextBookmark */ = 0BA2235712E3A8C700F78E35 /* PBXTextBookmark */;
+			0BA2235812E3A8CA00F78E35 /* PBXTextBookmark */ = 0BA2235812E3A8CA00F78E35 /* PBXTextBookmark */;
+			0BA2235912E3A8CA00F78E35 /* PBXTextBookmark */ = 0BA2235912E3A8CA00F78E35 /* PBXTextBookmark */;
+			0BA2235A12E3A8CA00F78E35 /* PBXTextBookmark */ = 0BA2235A12E3A8CA00F78E35 /* PBXTextBookmark */;
+			0BA2235B12E3A8CA00F78E35 /* PBXTextBookmark */ = 0BA2235B12E3A8CA00F78E35 /* PBXTextBookmark */;
+			0BA2235C12E3A8CA00F78E35 /* PBXTextBookmark */ = 0BA2235C12E3A8CA00F78E35 /* PBXTextBookmark */;
+			0BA2235D12E3A8CA00F78E35 /* PBXTextBookmark */ = 0BA2235D12E3A8CA00F78E35 /* PBXTextBookmark */;
+			0BA2235E12E3A8CA00F78E35 /* PBXTextBookmark */ = 0BA2235E12E3A8CA00F78E35 /* PBXTextBookmark */;
+			0BA2235F12E3A8CA00F78E35 /* PBXTextBookmark */ = 0BA2235F12E3A8CA00F78E35 /* PBXTextBookmark */;
+			0BA2236012E3A8CA00F78E35 /* PBXTextBookmark */ = 0BA2236012E3A8CA00F78E35 /* PBXTextBookmark */;
+			0BA2236112E3A8CA00F78E35 /* PBXTextBookmark */ = 0BA2236112E3A8CA00F78E35 /* PBXTextBookmark */;
+			0BA2236212E3A8CA00F78E35 /* PBXTextBookmark */ = 0BA2236212E3A8CA00F78E35 /* PBXTextBookmark */;
+			0BA2236312E3A8CA00F78E35 /* PBXTextBookmark */ = 0BA2236312E3A8CA00F78E35 /* PBXTextBookmark */;
+			0BA2236612E3A8CA00F78E35 /* PBXTextBookmark */ = 0BA2236612E3A8CA00F78E35 /* PBXTextBookmark */;
+			0BA2236812E3A8CA00F78E35 /* PBXTextBookmark */ = 0BA2236812E3A8CA00F78E35 /* PBXTextBookmark */;
+			0BA2237012E3AA5F00F78E35 /* PBXTextBookmark */ = 0BA2237012E3AA5F00F78E35 /* PBXTextBookmark */;
+			0BA2237312E3AAD800F78E35 /* PBXTextBookmark */ = 0BA2237312E3AAD800F78E35 /* PBXTextBookmark */;
+			0BA2237812E3AB2F00F78E35 /* PBXTextBookmark */ = 0BA2237812E3AB2F00F78E35 /* PBXTextBookmark */;
+			0BB3D9DB12D6A638000887A8 = 0BB3D9DB12D6A638000887A8 /* PBXTextBookmark */;
+			0BB4B9B81278C96C00EA197F = 0BB4B9B81278C96C00EA197F /* PBXTextBookmark */;
+			0BD02C5F12B2C7E400180A4D = 0BD02C5F12B2C7E400180A4D /* PBXTextBookmark */;
+			0BEA191512DC9B8700341381 = 0BEA191512DC9B8700341381 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 0B0F2A4611ECD73B0035EF7E /* Source Control */;
+		userBookmarkGroup = 0B6223E6126E071B00034993 /* PBXBookmarkGroup */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {621, 464}}";
+			sepNavSelRange = "{265, 0}";
+			sepNavVisRange = "{0, 355}";
+		};
+	};
+	32CA4F630368D1EE00C91783 /* EKGmon_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {870, 523}}";
+			sepNavSelRange = "{203, 0}";
+			sepNavVisRange = "{0, 217}";
+		};
+	};
+}
